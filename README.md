@@ -29,7 +29,6 @@ on cte.yr = cost_table.yr;
 ## Power BI Dashboard
 The Power BI dashboard provides a visual representation of the data, sliced by year (2021 and 2022) for comparative analysis.
 
-### Placeholder for Dashboard Images
 ![image](https://github.com/user-attachments/assets/b1be2cd2-70fa-49af-96de-50f602226814)
 
 ![image](https://github.com/user-attachments/assets/449e6f2c-c187-4346-83c4-95552033bcce)
